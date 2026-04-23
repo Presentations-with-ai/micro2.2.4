@@ -1,0 +1,5 @@
+{
+  "_comment": "Сюда можно добавлять Telegram ID пользователей, которым доступ разрешён вручную. accessType: micro, marketing или combo. Пользователь из этого файла не блокируется даже если его ID есть в banned_users.json.",
+  "premiumUserIds": [],
+  "users": {}
+}
